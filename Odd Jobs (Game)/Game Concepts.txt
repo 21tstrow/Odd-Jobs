@@ -1,0 +1,80 @@
+GOAL: Rise to the top of a gang, maybe then take out other gangs
+
+Gangs:
+
+-Horse Track Owners
+-Casino Owners
+-Corrupt Govt. Officials
+-Street Gang Members
+-Police Officers
+
+
+
+Districts:
+
+-The Projects (Street Gang)
+-The Tracks (Horse Track Owners)
+-The Strip (Casino Owners)
+-Downtown (Govt. Officials, Police Officers)
+
+
+
+Buildings:
+~Subway to get between Districts
+
+
+The Projects
+-Govt. Housing
+-Fried Chicken
+-The Public Park
+-The Public Gym
+
+The Tracks
+-Derby Hotel
+-Derby Cafe
+-The Race Track
+
+The Casino
+-The Hotel
+-The Casino
+-The Buffet
+-The Bar
+
+Downtown
+-The Station
+-The Office Buildings
+-The Apartments
+-The Coffee Bar
+-The Market Place
+-The Park
+-Town Hall
+-The Jail
+-Library
+
+
+
+Variables:
+-Money
+-XP & Levels
+
+-Gang Standings
+-Active Jobs
+
+-Health
+-Hunger
+-Sleep
+-Stress
+
+
+
+Attributes [0,100]:
+-Intelligence
+-Smooth Talking
+-Swagger
+-Trade
+-Fire Arms
+-Knives and Blades
+-Explosives
+-Foresight
+-Cardio
+-Strength
